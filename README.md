@@ -1,6 +1,6 @@
 # Generative_AI_Research_46966757
 
-This repository organises all files into 5 unique areas:
+This repository organises all files into 5 unique subsections:
 1. Literature Review Documents
 2. Quantitative Analysis
 3. Qualitative Analysis
